@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mivf1oczc-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mivf1oczc-java-quarkus-gitops
